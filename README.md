@@ -1,4 +1,8 @@
-### Hi there 👋
+##  Hi! I'm Jenny 👋 
+
+![LinkedIn](https://img.shields.io/badge/-Jenny%20Shen-blue?link=https://www.linkedin.com/in/jenny-shen-/&link=https://www.linkedin.com/in/jenny-shen-/&logo=Linkedin)
+
+Welcome to my Github Profile 🥳 ! I'm currently a 3rd year student at [Carleton University](https://carleton.ca/) studying Computer Science and Biology. I also work at [Shopify](https://www.shopify.ca/) as a [Dev Degree Intern](https://devdegree.ca/). 
 
 <!--
 **jenshenny/jenshenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
