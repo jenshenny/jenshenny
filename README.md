@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Jenny%20Shen-blue?link=https://www.linkedin.com/in/jenny-shen-/&logo=Linkedin)](https://www.linkedin.com/in/jenny-shen-/) [![Twitter](https://img.shields.io/badge/-@jenshennny-1DA1F2?link=https://twitter.com/jenshennny/&logo=Twitter&logoColor=white)](https://twitter.com/jenshennny/)
 
-Welcome to my Github Profile 🥳 ! I'm currently a 4th year student at [Carleton University](https://carleton.ca/) studying Computer Science and Biology. I'm also a developer at [Shopify](https://www.shopify.ca/) and a [Dev Degree Alum](https://devdegree.ca/). 
+Welcome to my Github Profile 🥳 ! I'm a developer on the Ruby and Rails Infrastructure team at [Shopify](https://www.shopify.ca/). Currently based in Toronto 🇨🇦 and am a [Dev Degree Alum](https://devdegree.ca/). 
 
 <!--
 **jenshenny/jenshenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
