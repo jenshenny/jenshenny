@@ -1,6 +1,6 @@
 ##  Hi! I'm Jenny 👋 
 
-[![LinkedIn](https://img.shields.io/badge/-Jenny%20Shen-blue?link=https://www.linkedin.com/in/jenny-shen-/&logo=Linkedin)](https://www.linkedin.com/in/jenny-shen-/) [![Twitter](https://img.shields.io/badge/-@jenshennny-1DA1F2?link=https://twitter.com/jenshennny/&logo=Twitter&logoColor=white)](https://twitter.com/jenshennny/)
+[![LinkedIn](https://img.shields.io/badge/-Jenny%20Shen-blue?link=https://www.linkedin.com/in/jenny-shen-/&logo=Linkedin)](https://www.linkedin.com/in/jenny-shen-/) [![Twitter](https://img.shields.io/badge/-@jenshenny-1DA1F2?link=https://twitter.com/jenshenny/&logo=Twitter&logoColor=white)](https://twitter.com/jenshenny/)
 
 Welcome to my Github Profile 🥳 ! I'm a developer on the Ruby and Rails Infrastructure team at [Shopify](https://www.shopify.ca/). Currently based in Toronto 🇨🇦 and am a [Dev Degree Alum](https://devdegree.ca/). 
 
